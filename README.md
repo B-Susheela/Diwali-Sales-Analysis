@@ -39,5 +39,5 @@ This project analyzes Diwali sales data using Python to uncover customer purchas
 ## 👩‍💻 Author
 **B. Susheela**
 
-LinkedIn: *(Add your LinkedIn profile link here)*  
-GitHub: *(Add your GitHub profile link here)*
+LinkedIn: https://www.linkedin.com/in/bsusheela
+GitHub: https://github.com/B-Susheela
