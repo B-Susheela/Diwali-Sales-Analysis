@@ -36,23 +36,25 @@ This project analyzes Diwali sales data using Python to uncover customer purchas
 - Business Insight Generation
 - Python for Data Analytics
 
-  ## 📊 Project Visualizations
+---
 
-### Gender-wise Sales
+# 📊 Project Visualizations
 
-![Gender Sales](images/gender_sales.png)
+## Gender-wise Sales
 
-### Age Group Analysis
+![Gender-wise Sales](images/gender_sales.png)
 
-![Age Group](images/age_group.png)
+## Age Group Analysis
 
-### State-wise Sales
+![Age Group Analysis](images/age_group.png)
 
-![State Sales](images/state_sales.png)
+## State-wise Sales
 
-### Product Category Analysis
+![State-wise Sales](images/state_sales.png)
 
-![Product Category](images/product_category.png)
+## Product Category Analysis
+
+![Product Category Analysis](images/product_category.png)
 
 ## 👩‍💻 Author
 **B. Susheela**
