@@ -42,19 +42,19 @@ This project analyzes Diwali sales data using Python to uncover customer purchas
 
 ## Gender-wise Sales
 
-![Gender-wise Sales](images/gender_sales.png)
+![Gender-wise Sales](gender_sales.png)
 
 ## Age Group Analysis
 
-![Age Group Analysis](images/age_group.png)
+![Age Group Analysis](age_group.png)
 
 ## State-wise Sales
 
-![State-wise Sales](images/state_sales.png)
+![State-wise Sales](state_sales.png)
 
 ## Product Category Analysis
 
-![Product Category Analysis](images/product_category.png)
+![Product Category Analysis](product_category.png)
 
 ## 👩‍💻 Author
 **B. Susheela**
