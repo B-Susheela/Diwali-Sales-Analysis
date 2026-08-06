@@ -56,6 +56,24 @@ This project analyzes Diwali sales data using Python to uncover customer purchas
 
 ![Product Category Analysis](product_category.png)
 
+
+---
+
+# 💡 Business Recommendations
+
+Based on the analysis, the following recommendations can help improve sales performance:
+
+- Focus marketing campaigns on women aged **26–35**, as they represent the highest purchasing segment.
+- Increase inventory in **Uttar Pradesh, Maharashtra, and Karnataka** during festive seasons.
+- Promote high-performing product categories with targeted discounts and bundle offers.
+- Offer personalized festive promotions to repeat customers to improve customer retention.
+- Use customer demographic insights to design region-specific marketing strategies.
+
+---
+
+# 📌 Conclusion
+
+This project demonstrates how Exploratory Data Analysis (EDA) can transform raw sales data into meaningful business insights. Using Python and visualization libraries, the analysis identifies customer purchasing patterns and provides actionable recommendations for improving sales and marketing strategies.
 ## 👩‍💻 Author
 **B. Susheela**
 
